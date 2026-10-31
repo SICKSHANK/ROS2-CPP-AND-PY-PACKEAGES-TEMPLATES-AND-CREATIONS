@@ -83,4 +83,7 @@ install(TARGETS
 
 ament_package()
 
-WHICH HAS EXECUTABLENAME NIDE
+WHICH HAS EXECUTABLENAME Node 
+
+
+also the terminal code to check the frequency and bandwidth of the iterative execution of main file in another terminal is $; ros2 topic hz /number (topic name))
