@@ -28,6 +28,7 @@ setup(
             "robot_news_station = my_py_pkg.robot_news_station:main",
             "smartphone = my_py_pkg.smartphone:main",
             "number_publisher = my_py_pkg.number_publisher:main",
+            
         ],
     },
 )
