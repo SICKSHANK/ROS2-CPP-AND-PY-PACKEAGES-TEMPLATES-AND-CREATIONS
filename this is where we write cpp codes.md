@@ -90,3 +90,7 @@ also the terminal code to check the frequency and bandwidth of the iterative exe
 
 
 and similarly to check the bandwidth is done using the terminal command os2 topic bw /number (topic name))
+
+
+
+########################## THere is seperate document for refering the whole process
